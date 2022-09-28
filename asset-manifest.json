@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VaporWarehouse/static/css/main.b8211918.css",
+    "main.js": "/VaporWarehouse/static/js/main.5cde3b88.js",
+    "static/js/787.f9f5a443.chunk.js": "/VaporWarehouse/static/js/787.f9f5a443.chunk.js",
+    "static/media/VW-Logo-Alpha.png": "/VaporWarehouse/static/media/VW-Logo-Alpha.7202480d08cd671a9ce9.png",
+    "static/media/wireframe-room.png": "/VaporWarehouse/static/media/wireframe-room.6ae38a5effbba4dd41ee.png",
+    "static/media/Alpha-Cube-Wood.gif": "/VaporWarehouse/static/media/Alpha-Cube-Wood.a508325e320c88ab1a49.gif",
+    "static/media/Alpha-Cube-Vanilla.gif": "/VaporWarehouse/static/media/Alpha-Cube-Vanilla.3fd71f089635d035c824.gif",
+    "static/media/Alpha-Cube-Pink.gif": "/VaporWarehouse/static/media/Alpha-Cube-Pink.67b0b26b6f2f1553b8a8.gif",
+    "static/media/Alpha-Cube-Industrial.gif": "/VaporWarehouse/static/media/Alpha-Cube-Industrial.fd1eb28e782a2362a75a.gif",
+    "static/media/Alpha-Cube-Blue.gif": "/VaporWarehouse/static/media/Alpha-Cube-Blue.cb67408df85e4c63d04d.gif",
+    "index.html": "/VaporWarehouse/index.html",
+    "main.b8211918.css.map": "/VaporWarehouse/static/css/main.b8211918.css.map",
+    "main.5cde3b88.js.map": "/VaporWarehouse/static/js/main.5cde3b88.js.map",
+    "787.f9f5a443.chunk.js.map": "/VaporWarehouse/static/js/787.f9f5a443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8211918.css",
+    "static/js/main.5cde3b88.js"
+  ]
+}
